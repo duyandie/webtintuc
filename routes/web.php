@@ -16,3 +16,4 @@ require_once __DIR__ ."/acess/category.php";
 require_once __DIR__ ."/acess/user.php";
 require_once __DIR__ ."/acess/whislist.php";
 require_once __DIR__ ."/acess/comment.php";
+require_once __DIR__ ."auth.php";
